@@ -64,7 +64,7 @@
 
 
 .hero-events {
-  background: url('PictureWebsite/pexels-recalmedia-97815.jpg') center/cover no-repeat;
+  background: url('pexels-recalmedia-97815.jpg') center/cover no-repeat;
   height: 100vh;
   display: flex;
   justify-content: space-between;
@@ -637,6 +637,7 @@ footer {
     border-radius: 20px;
   }
 }
+
 
 
 

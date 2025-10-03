@@ -160,7 +160,7 @@ header {
 
 /* HERO SECTION */
 .hero {
-  background: url('PictureWebsite/chevanon.jpg') center/cover no-repeat;
+  background: url('chevanon.jpg') center/cover no-repeat;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -585,7 +585,7 @@ transition: background-color 0.3s ease, color 0.3s ease;
   justify-content: space-between;
   align-items: flex-start;
   padding: 50px 10%;
-  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(PictureWebsite/pexels-apgpotr-683039.jpg);
+  background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(pexels-apgpotr-683039.jpg);
   background-size: cover;
   background-position: center;
   color: #fff;
@@ -839,6 +839,7 @@ footer {
     border-radius: 20px;
   }
 }
+
 
 
 
